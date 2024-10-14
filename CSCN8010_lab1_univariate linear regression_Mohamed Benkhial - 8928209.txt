@@ -1,0 +1,21 @@
+Mohamed Benkhial - 8928209
+
+
+I have submitted this file because the submission system in Econestoga didn't allow me to submit just two links without a file. 
+The submission system requested a file so I created a text file and I have added the 2 links down below. 
+I have also provided the links in the comments section.
+
+
+first link is the link to the .ipynb file in github repository;
+
+
+https://github.com/MO7AMED-119/CSCN8010-labs/blob/main/Lab1.ipynb
+
+
+
+
+
+second link is the rendered HTML file ;
+
+
+https://mo7amed-119.github.io/CSCN8010-labs/Lab1_univariate_regression_MB.html
